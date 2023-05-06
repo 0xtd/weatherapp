@@ -1,6 +1,9 @@
 * {
     margin: 0;
     padding: 0;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto Mono', monospace;
     box-sizing: border-box;
 }
 body {
@@ -55,7 +58,7 @@ body {
     font-weight: 500;
 }
 .weather h2 {
-    font-size: 80px;
+    font-size: 60px;
     font-weight: 400;
     margin-top: -10px;
 }
